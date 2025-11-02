@@ -1,3 +1,0 @@
-
-carname = "Volvo"
-print(carname)
